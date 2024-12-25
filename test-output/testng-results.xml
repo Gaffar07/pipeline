@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[Web form]]>
+    </line>
   </reporter-output>
-  <suite started-at="2024-12-24T13:47:16 IST" name="Default suite" finished-at="2024-12-24T13:47:18 IST" duration-ms="1579">
+  <suite started-at="2024-12-25T16:04:04 IST" name="Default suite" finished-at="2024-12-25T16:04:07 IST" duration-ms="3563">
     <groups>
     </groups>
-    <test started-at="2024-12-24T13:47:16 IST" name="Default test" finished-at="2024-12-24T13:47:18 IST" duration-ms="1579">
+    <test started-at="2024-12-25T16:04:04 IST" name="Default test" finished-at="2024-12-25T16:04:07 IST" duration-ms="3563">
       <class name="comm.demo">
-        <test-method signature="test()[pri:0, instance:comm.demo@183ec003]" started-at="2024-12-24T13:47:16 IST" name="test" finished-at="2024-12-24T13:47:18 IST" duration-ms="1547" status="PASS">
+        <test-method signature="test()[pri:0, instance:comm.demo@183ec003]" started-at="2024-12-25T16:04:04 IST" name="test" finished-at="2024-12-25T16:04:07 IST" duration-ms="3531" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Web form]]>
+            </line>
           </reporter-output>
         </test-method> <!-- test -->
       </class> <!-- comm.demo -->
